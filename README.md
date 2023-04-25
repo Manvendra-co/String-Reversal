@@ -3,21 +3,21 @@ Reversing a string is the technique that reverses or changes the order of a give
  
 Algorithm to Reverse a String:
 
-.Start
+1 Start
 
-.Declare all the variables ( integer and character type )
+2 Declare all the variables ( integer and character type )
 
-.Enter the string to be reversed
+3 Enter the string to be reversed
 
-.Find out the length of string
+4 Find out the length of string
 
-.Swap the position of array element using loop
+5 Swap the position of array element using loop
 
-.Store the swapped position
+6 Store the swapped position
 
-.Print the reversed string as console output
+7 Print the reversed string as console output
 
-.Stop
+8 Stop
 
 Output
 
