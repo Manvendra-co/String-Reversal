@@ -18,3 +18,6 @@ Algorithm to Reverse a String:
 .Print the reversed string as console output
 
 .Stop
+
+Output
+![image](https://user-images.githubusercontent.com/76811184/234373268-8cd8eb7e-39a7-4af9-961d-3bdb50efc623.png)
